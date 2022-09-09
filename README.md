@@ -11,7 +11,7 @@
 - Thanks to the faster computation power and powerfull algorithms, we are now able to analyze the high volumes of data much efficiently and effectively.
 - Since data has become such an important part of our, from booking a item online to recommendations on social media platform. There is a vast opening for jobs which require analysing the data, basically Data Science Jobs.
 - There goes a lot into analysing a data, from cleaning to visualising to modelling and etc. Therefore this work is to analyse the opportunities and the other factors which affect the Salary/Financial scope of the particular role.
- - 
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
